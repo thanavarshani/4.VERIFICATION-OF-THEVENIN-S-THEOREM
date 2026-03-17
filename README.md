@@ -33,6 +33,10 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b331b825-4680-47f8-a2ec-76276ceda113" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a508e2bc-6fc7-4f1f-9a10-2655f3e32d25" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/74173a48-ac82-4f93-b54a-04c24d6f6799" /> 
+
 
 To measure IL
 
@@ -71,17 +75,12 @@ Thevenin’s equivalent circuit
 
 9.	Set an input voltage of 10V in the RPS and note down the voltmeter reading Vi and Ammeter reading IN (= Isc) in Tabular Column 4.
 
-10.	Draw the Thevenin’s equivalent circuit and Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
+10.	Draw the Thevenin’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
 
 11.	Calculate the IL value using the formula
     Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
-    Norton’s Theorem IL = IN * RN / ( RN + RL )
-
-13.	Theoretically verify the Norton’s theorem.
-
-https://github.com/thanavarshani/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git
-https://github.com/thanavarshani/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git
-https://github.com/thanavarshani/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git
+    
+13.	Theoretically verify the Thevenin's Theorem
 
 
 Result:
