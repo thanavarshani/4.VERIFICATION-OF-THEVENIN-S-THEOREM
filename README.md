@@ -78,3 +78,11 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+https://github.com/thanavarshani/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git
+https://github.com/thanavarshani/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git
+https://github.com/thanavarshani/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git
+
+
+Result:
+ Thus Thevenin's theorem is verified practically and theoretically.
