@@ -36,7 +36,7 @@ It is the look-back resistance across the load terminals when all the sources ar
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b331b825-4680-47f8-a2ec-76276ceda113" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a508e2bc-6fc7-4f1f-9a10-2655f3e32d25" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/74173a48-ac82-4f93-b54a-04c24d6f6799" /> 
-
+<img width="992" height="1556" alt="image" src="https://github.com/user-attachments/assets/7944d3b6-a522-468f-a9d6-8a133b263fed" />
 
 To measure IL
 
@@ -53,6 +53,7 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+
 
 
 **PROCEDURE:**
